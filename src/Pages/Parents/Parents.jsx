@@ -3,8 +3,11 @@ import './Parents.css';
 
 const Parents = () => {
   return (
-    <div>
-      
+    <div className='mainClass'>
+      <div><p className='innerrText'>BhagwantRao Shinde</p></div>
+      <div><p className='innerrText'>Sunanda Shinde</p></div>
+     <div><p className='innerrText'> Shripad Shinde</p></div>
+     <div><p className='innerrText'> Pallavi Shinde</p> </div>
     </div>
   )
 }
