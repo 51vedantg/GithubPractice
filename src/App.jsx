@@ -6,8 +6,9 @@ import Parents from './Pages/Parents/Parents';
 const App = () => {
   return (
     <div>
+    <Family/>
     <Parents/>
-    </div>
+    </div>    
   )
 }
 
